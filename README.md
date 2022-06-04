@@ -20,7 +20,8 @@
   <br>
   📫 You can contact me on Discord : <b>kudasai#4329</b>
 </p>
-
+<h2 align="center">Where does the visitors come from?</h2>
+<p align="center"><a href="https://info.flagcounter.com/MgyK"><img src="https://s01.flagcounter.com/count2/MgyK/bg_000000/txt_FFFFFF/border_CCCCCC/columns_2/maxflags_5/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
 
 <h2 align="center">Languages / Tools i ever worked with (outside of GitHub)</h2>
 <br>
