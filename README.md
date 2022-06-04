@@ -10,15 +10,15 @@
 <p align="center">
   Hi, i'm Kudasai, a teenager who loves coding. 
   <br>
-  🔭 I’m currently working on **KUDA-Framework** (closed source)
+  🔭 I’m currently working on <b>KUDA-Framework</b> (closed source)
   <br>
   🔬 I am currently in highschool.
   <br>
-  💻 I love writing code, and learn new languages!
+  💻 I love writing code, and learning new languages!
   <br>
   📚 I'm currently learning more about my favorite language, C#!
   <br>
-  📫 You can contact me on Discord : **kudasai#4329**
+  📫 You can contact me on Discord : <b>kudasai#4329</b>**
 </p>
 
 
