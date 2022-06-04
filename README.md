@@ -3,7 +3,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kudasaixc">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&color=1E90FF&center=true&lines=Hello.+I'm+Kudasai%2C+and+i+%E2%9D%A4+coding.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&color=1E90FF&center=true&lines=Hello.+I'm+Kudasai%2C+and+i+%E2%9D%A4+coding.)](https://git.io/typing-svg)
 
 
 <br>
