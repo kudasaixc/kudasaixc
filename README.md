@@ -18,7 +18,7 @@
   <br>
   📚 I'm currently learning more about my favorite language, C#!
   <br>
-  📫 You can contact me on Discord : <b>kudasai#4329</b>**
+  📫 You can contact me on Discord : <b>kudasai#4329</b>
 </p>
 
 
