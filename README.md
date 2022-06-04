@@ -77,7 +77,7 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/kudasaixc/DualSenseSupport" title="DualSenseSupport"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kudasaixc&repo=DualSenseSupport&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/kudasaixc/DualSenseSupport" title="DualSenseSupport"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kudasaixc&repo=DualSenseSupport&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/kudasaixc/akirixen-helper" title="akirixen-helper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kudasaixc&repo=akirixen-helper&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br><br><br><br><br><br>
@@ -85,7 +85,6 @@
   <a href="https://github.com/kudasaixc?tab=repositories" title="Open Repositories">🔎 See the other useless repositories. 🔍</a>
 </h4>
 
-![Metrics](https://metrics.lecoq.io/kudasaixc?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe/Paris)
 ![Metrics](https://metrics.lecoq.io/kudasaixc?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe/Paris)
 
 <!--
