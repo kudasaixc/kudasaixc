@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, i'm Kudasai, a teenager who loves coding. 
+  <big>Hi, i'm Kudasai, a teenager who loves coding.</big> 
   <br>
   🔭 I’m currently working on <b>KUDA-Framework</b> (closed source)
   <br>
