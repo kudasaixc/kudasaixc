@@ -1,4 +1,5 @@
 ### 
+[![MasterHead](https://media.discordapp.net/attachments/800017793227554816/982653005654540340/Untitled-2.png?width=1379&height=689)]([https://github.com/kudasaixc])
 [![Kudasai's GitHub stats](https://github-readme-stats.vercel.app/api?username=kudasaixc&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kudasaixc/kudasaixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
