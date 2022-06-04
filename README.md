@@ -21,7 +21,7 @@
   📫 You can contact me on Discord : **kudasai#4329**
 </p>
 
-<hr>
+
 <h2 align="center">Languages / Tools i ever worked with (outside of GitHub)</h2>
 <br>
 <p align="center">
@@ -29,22 +29,15 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="C#" height="25" src="images/cSharp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  
-  
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  
   <code><img title="Java" height="25" src="images/java-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  
   <code><img title="Android" height="25" src="images/android.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
@@ -52,7 +45,7 @@
   <code><img title="PHP" height="25" src="images/php.svg"></code>
   
 </p>
-<hr>
+
 
 
 <br>
@@ -75,7 +68,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=kudasaixc&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
+
 
 <h2 align="center">My work is mainly in private organizations. You can have a look at what i've done publicly.</h2>
 <br>
@@ -84,7 +77,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/kudasaixc/akirixen-helper" title="AkiriXen Helper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kudasaixc&repo=akirixen-helper&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/kudasaixc/DualSenseSupport" title="DualSenseSupport"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=kudasaixc&repo=DualSenseSupport&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
@@ -93,6 +85,7 @@
   <a href="https://github.com/kudasaixc?tab=repositories" title="Open Repositories">🔎 See the other useless repositories. 🔍</a>
 </h4>
 
+![Metrics](https://metrics.lecoq.io/kudasaixc?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe/Paris)
 ![Metrics](https://metrics.lecoq.io/kudasaixc?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe/Paris)
 
 <!--
