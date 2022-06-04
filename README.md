@@ -1,4 +1,4 @@
-### Hi there 👋
+### Made with ❤ by Kudasai
 
 <!--
 **kudasaixc/kudasaixc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
