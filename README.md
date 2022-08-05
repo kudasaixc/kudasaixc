@@ -73,7 +73,7 @@
 
 <h2 align="center">My work is mainly in private organizations. You can have a look at what i've done publicly.</h2>
 
-<br><br><br><br><br><br>
+
 <h4 align="center">
   <a href="https://github.com/kudasaixc?tab=repositories" title="Open Repositories">🔎 See my repos. 🔍</a>
 </h4>
