@@ -12,7 +12,7 @@
   <br>
   🔭 I’m currently working on <b>KUDA-Framework</b> (closed source)
   <br>
-  🔬 I am currently in highschool.
+  🔬 I am currently in college.
   <br>
   💻 I love writing code, and learning new languages!
   <br>
